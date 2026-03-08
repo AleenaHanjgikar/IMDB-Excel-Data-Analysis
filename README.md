@@ -1,3 +1,7 @@
+<img width="661" height="450" alt="IMDB_Dashboard" src="https://github.com/user-attachments/assets/1d48a62d-9beb-472d-98b7-d0ce4e61d2ba" />
+
+
+
 # IMDB-Excel-Data-Analysis
 IMDB movie dataset analysis using Excel including data cleaning, formulas, pivot tables, and dashboard creation.
 
